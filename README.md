@@ -6,6 +6,8 @@ I am going to use this repository to apply Feyman's learning technique and I wil
 - [ ] I will describe the 14 leadership principles
 - [ ] I will add two personal examples to the 14 leadership principles explaining them with the STAR technique (Situation, Task, Action, Result) in the form of a story and following the 60 second elevator pitch guidelines
 - [ ] I will create tickets in this repository for the gaps and for the tasks to complete in this repository
+- [ ] I will learn how to add comments to the code (and TODOs)
+- [ ] I will learn how ro use the blame tool
 - [ ] I will add references to this repository
 - [ ] I will add a table of contents to this repository
 - [ ] I will create an article about this repository and publish it in Linkedin
@@ -13,3 +15,9 @@ I am going to use this repository to apply Feyman's learning technique and I wil
 - [ ] I will use a Jenkins webpage for this article and as a base for others
 - [ ] I will add a section for the STAR technique
 - [ ] I will add a section for the 60 second elevator pitch
+# The 14 Principles
+## 1. Customer Obsessed
+## 1. Think Big
+## 1. Have backbone
+## 1. Ownership
+## 1. Be curious
